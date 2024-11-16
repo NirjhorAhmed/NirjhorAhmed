@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Md. Nirjhor Ahmed
+# :wave: Hi, I'm Md. Sufi Mahbub Ahmed
 
 ### :man_technologist: About Me
 I’m a Computer Science and Engineering (CSE) student at the **Islamic University of Technology (IUT)**. I'm passionate about technology, problem-solving, and continuous learning in programming and development. I'm on a journey to become a skilled developer and contribute positively to the tech community.
