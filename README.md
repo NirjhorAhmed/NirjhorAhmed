@@ -1,6 +1,5 @@
 ![My Cool GIF](https://github.com/user-attachments/assets/bc8eac89-ccc2-4611-85cc-b7c6a105a6c0)
-
-![Coding GIF]![giphy](https://github.com/user-attachments/assets/766cf91a-fb36-4a5f-99ba-66221987a8a2)
+![giphy](https://github.com/user-attachments/assets/766cf91a-fb36-4a5f-99ba-66221987a8a2)
 
 
 
