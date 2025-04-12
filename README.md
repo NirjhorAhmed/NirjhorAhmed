@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated background" width="100%" />
+</p>
+
 # :wave: Hi, I'm Md. Sufi Mahbub Ahmed
 
 ### :man_technologist: About Me
