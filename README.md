@@ -1,7 +1,7 @@
 ![My Cool GIF](https://github.com/user-attachments/assets/bc8eac89-ccc2-4611-85cc-b7c6a105a6c0)
 
+![Coding GIF]![giphy](https://github.com/user-attachments/assets/766cf91a-fb36-4a5f-99ba-66221987a8a2)
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVzbGxodjhza3o5dmhwYmVpMjV0NGtidjY2eGNndXNuaDl6bnZobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sRFEa8lbeC7zbcIZZR/giphy.gif
 
 
 # :wave: Hi, I'm Md. Sufi Mahbub Ahmed
