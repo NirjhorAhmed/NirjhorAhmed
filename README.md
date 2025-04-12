@@ -1,7 +1,6 @@
 ![giphy](https://github.com/user-attachments/assets/bc8eac89-ccc2-4611-85cc-b7c6a105a6c0)
 
 
-![Uploading 7863362124aee1020dd1784a9f95a4ae.gif…]()
 
 
 
